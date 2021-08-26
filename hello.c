@@ -12,6 +12,8 @@
 
      printf("Hello World! I'm Claire Anderson\n");
      printf("Computer Science\n");
+     printf("Hannah Shin!\n");
+     printf("Computer Science\n");    
 
      return 0;
      
